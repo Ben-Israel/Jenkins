@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Stage 1'){
             steps{
-                echo'Hello from SCM!'
+                echo'Hello from SCM! Does it Trigger now?'
             }
         }
     }
